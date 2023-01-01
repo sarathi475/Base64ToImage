@@ -1,6 +1,22 @@
 # Base64ToImage
 Base64 to image and image to Base64 conversion function. 
 
+## Pre-request Tools
+
+Xcode - Version 14 (includes SDKs for iOS 16). this application will support iOS 16.
+
+## Mac os Minimum required
+1. MacOS Monterey 12.6 or later
+
+## Language
+1. Swift - version 5
+
+
+## Open App cli command
+```
+open Base64Image/Base64ToImage.playground
+```
+
 
 ## Playground function:
 ```swift
